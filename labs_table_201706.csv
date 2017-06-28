@@ -1,0 +1,118 @@
+,Laboratory name and institution,URL,City,Country,Longitude,Latitude,Announced,Contact person,Contact email
+1,University of Nottingham,http://www.nottingham.ac.uk/ngi/research/geospatial-science/geospatial-science.aspx,Nottingham,UK,-1.250296,52.831497,,Didier Leibovici,Didier dot Leibovici at nottingham.ac.uk
+2,University of Girona,http://www.sigte.udg.edu/,Girona,Spain,2.837305,41.967426,2012-09-10,Lluís Vicens,lluis at sigte.udg.edu
+3,University of Southampton,http://www.osgl.soton.ac.uk/,Southampton,UK,-1.396873,50.936974,2013-04-30,Jason Sadler,osgl at geodata.soton.ac.uk
+4,Czech Technical University in Prague,http://geo.fsv.cvut.cz/gwiki/osgeorel,Prague,Czech Republic,14.390363,50.10183,2012-11-23,Martin Landa,martin.landa at fsv.cvut.cz
+5,Newcastle University,http://research.ncl.ac.uk/osgeolab/,Newcastle,UK,-1.611536,54.980656,2013-01-17,Philip James,philip.james at ncl.ac.uk (please use subject: OSGeoLab)
+6,Politecnico di Milano - Polo Territoriale di Como,http://geolab.como.polimi.it/,Como,Italy,9.095939,45.803516,2013-02-25,Marco Minghini,marco.minghini at polimi.it
+7,University of Warwick,http://www2.warwick.ac.uk/fac/sci/lifesci/research/facilities/geolab/,Warwick,UK,-1.56273,52.380531,2013-03-23,Nataliya Tkachenko,geolab at warwick.ac.uk
+8,UNEP/GRID Warsaw Centre,http://gridw.pl/en/areas-of-competence/179-open-source-geolab,Warsaw,Poland,21.039473,52.198849,2013-03-18,Ela Wołoszyńska-Wiśniewska,ela at gridw.pl
+9,University of Applied Sciences and Arts of Southern Switzerland (SUPSI),http://www.supsi.ch/ist_en/settori-attivita/geomatica.html,Lugano,Switzerland,8.961098,46.028362,2013-09-03,Massimiliano Cannata,geomatica at supsi.ch
+10,ETH Zurich,http://osgl.ethz.ch/,Zurich,Switzerland,8.5481,47.3764,2013-09-20,Ionut Iosifescu Enescu,iosifescu at ethz.ch
+11,University of Molise,,Molise,Italy,14.493651,41.630815,,Rossella Nocera,rossella.nocera at unimol.it
+12,Institute of Geodesy and Cartography (IGiK),http://www.igik.edu.pl/en,Warsaw,Poland,21.013407,52.178478,,Prof. Dr. Marek Baranowski,Marek.Baranowski@igik.edu.pl
+13,"Faculty of Geography, University of Bucharest",http://geo.unibuc.ro/,Bucharest,Romania,26.103889,44.4325,,Andreea Marin,andreea dot marin09 at yahoo dot com
+14,"Faculty of Geoinformatics,University of West Hungary",http://www.geo.info.hu/english/index.php,Székesfehérvár,Hungary,18.418833,47.188778,,Andrea Podör,
+15,Stuttgart University of Applied Sciences,http://www.hft-stuttgart.de/Studienbereiche/Vermessung/Master-Photogrammetry-Geoinformatics/Labs/ICA-OSGeo-Labor/index.html/en?set_language=en&cl=en,Stuttgart,Germany,9.1737,48.77996,2013-10-14,Franz-Josef Behr,franz-josef.behr at hft-stuttgart.de
+16,Federal University of Paraná,http://www.labgeolivre.ufpr.br/,Paraná,Brazil,-49.23329,-25.45304,2012-05-23,Silvana Camboim,silvanacamboim at gmail.com
+17,"Institute of Geography, Pavol Jozef Šafárik University",http://geografia.science.upjs.sk/index.php/en/,Kosice,Slovakia,21.2460432,48.7288883,2016-04-25,Jaroslav Hofierka,jaroslav.hofierka@upjs.sk
+18,National Amazonian University of Madre de Dios (UNAMAD),,Puerto Maldonado,Peru,-73.245789,-3.745845,2013-02-01,Andrea Birgit Chavez,
+19,Universidad de la República,http://geografia.fcien.edu.uy/ltaat/,Montevideo,Uruguay,-56.176441,-34.902405,2013-03-01,Virginia Fernandez,vivi@fcien.edu.uy
+20,University of Trento,http://www.ing.unitn.it/~grass/,Trento,Italy,11.139053,46.064827,,Clara Tattoni,clara.tattoni at unitn.it
+21,University of Heidelberg,http://www.geog.uni-heidelberg.de/index_en.html,Heidelberg,Germany,8.67024,49.41739,2016-02-08,Alexander Zipf and Bernhard Hofle,
+22,North Carolina State University OSGeoREL,http://geospatial.ncsu.edu/osgeorel/,"Raleigh, NC",USA,-78.6764,35.7818,2012-10-18,Helena Mitasova,hmitaso at ncsu.edu
+23,University of Massachusetts Amherst,http://www.umass.edu/opensource,Amherst,USA,-72.524696,42.393578,2012-10-18,Charlie Schweik,cschweik at pubpol dot umass dot edu
+24,University of Kansas,https://sites.google.com/site/foss4gku/,"Lawrence, KS",USA,-95.251311,38.958578,2013-08-23,Xingong Li,lixi at ku.edu
+25,"University of California, Davis",https://geospatial.ucdavis.edu/resources/open-source,Davis,USA,-121.766945,38.548801,2013-02-04,Alex Mandel,aimandel at ucdavis.edu
+26,Laboratorio de Software Libre,http://www.cozcyt.gob.mx/labsol/,Zacatecas,Mexico,-102.5791,22.7608,2013-04-05,Manual Haro,manuel.haro at zacatecas.gob.mx
+27,Kent State University,,"Kent, Ohio",USA,-81.357886,41.153667,2013-08-30,Xinyue Ye,xye5 at kent.edu
+28,"Center for Applied GIScience, University of North Carolina, Charlotte",https://gis.uncc.edu/osgl,"Charlotte, NC",USA,-80.73,35.306944,2013-09-05,Wenwu Tang,WenwuTang at uncc.edu
+29,"University of Nottingham, Malaysia campus",http://www.nottingham.edu.my/Geography/Research/GeospatialScience/OSGEO-lab.aspx,Semenyih,Malaysia,101.721298,3.172932,2012-01-09,Tuong Thuy Vu,Tuongthuy.Vu at nottingham.edu.my
+30,Universiti Teknologi Malaysia (UTM),http://fght.utm.my/,Johor Bahru,Malaysia,101.874222,2.943748,,Nurul Hawani Idris,hawani at utm.my
+31,"National College of Public Administration and Governance(NCPAG), University of the Philippines",,Manila,Philippines,121.059875,14.656005,,Noriel Christopher Tiglao,nctiglao at gmail.com
+32,Environmental Science for Social Change (ESSC),,Quezon City,Philippines,121.062241,14.64372,,Maning Sambale,
+33,"Lab for Spatial Informatics, IIIT Hyderabad",http://lsi.iiit.ac.in/labinfo/,Hyderabad,India,78.3503,17.4454,2011-08-22,Dr K S Rajan,
+34,"Geospatial Research and Education Lab (GREL), Institute of Space Technology (IST)",http://grel.ist.edu.pk/,Islamabad,Pakistan,73.175045,33.52006,,Rizwan Bulbul,bulbul(at)grel(dot)ist(dot)edu(dot)pk
+35,University of Pretoria,http://www.up.ac.za/cgis,Pretoria,South Africa,28.22847,-25.75429,2012-05-15,Serena Coetzee,serena dot coetzee at up dot ac dot za
+36,Regional Centre for Mapping of Resources for Development (RCMRD),http://www.rcmrd.org/,Nairobi,Kenya,36.858574,-1.249038,,Hussein Farah,farah at rcmrd.org
+37,University of Ghana,,Accra,Ghana,-0.191617,5.650366,,Foster Mensah,
+38,The University of Melbourne,http://osgeolab.unimelb.edu.au/,Melbourne,Australia,144.962006,-37.797932,2013-07-22,Jack Barton,jack.barton at unimelb.edu.au
+39,Spatial {Query} Lab at Texas A&M University - Corpus Christi,http://spatialquerylab.com/projects/open-source-gis/,Corpus Christi,USA,-97.328799,27.714506,2013-09-09,Rick Smith,Richard.Smith at tamucc.edu
+40,CEPT University,http://www.geomaticsindia-cept.org/,Ahmedabad,India,72.566004,23.039568,2012-07-18,Prof. Anjana Vyas & Ms. Darshana Rawal,anjanavyas at cept.ac.in rawalnet at cept.ac.in
+41,Programa de Gestión de Información y Gestión de Datos -IRPHa Universidad Nacional de San Juan,http://www.unsj.edu.ar/,San Juan,Argentina,-68.57,-31.54,2012-06-15,Esp. Lic. MarГ­a Valentina Soria,valentina@unsj.edu.ar; pgid.irpha@gmail.com
+42,"GeoDa Center for Geospatial Analysis and Computation, Arizona State University",http://geodacenter.asu.edu/,"Tempe, AZ",USA,-111.940005,33.42551,2013-09-27,Luc Anselin,geodacenter at asu.edu
+43,National Technical University of Athens,,Athens,Greece,23.72931,37.983716,2013-09-26,,
+44,IGN- France,,Paris,France,2.352222,48.856614,2013-09-26,Benedicte Bucher,
+45,Universitat Oberta de Catalunya,,Barcelona,Spain,2.173403,41.385064,2013-09-27,Dr. Antoni Pérez Navarro,aperezn at uoc.edu
+46,ISRIC - World Soil Information foundation,http://www.isric.org/,Wageningen,The Netherlands,5.665662,51.9875,2013-10-02,Jorge de Jesus,jorge.mendesdejesus at wur.nl
+47,Universidade da Coruña,,Coruña,Spain,-8.41154,43.362344,2013-10-15,Alberto Varela GarcГ­a,
+48,"Geoinformatic Unit, Universiti Sains Malaysia",http://campusgis.usm.my/,Penang,Malaysia,100.484623,5.263234,2013-10-16,Ruslan Rainis,rruslan at usm.my
+49,Kathmandu University,https://sites.google.com/a/ku.edu.np/opensourcegeospatial/,Dhulikhel,Nepal,85.55,27.616667,2012-12-24,Shashish Maharjan,
+50,"GIS and Remote Sensing Unit, Fondazione Edmund Mach",http://gis.cri.fmach.it/,San Michele all'Adige (Trento),Italy,11.133042,46.187865,2013-10-16,Luca Delucchi,luca.delucchi at fmach.it
+51,University of South Wales,http://gis.research.southwales.ac.uk/,Cardiff,UK,-3.17909,51.481581,2013-10-31,Dr Mark Ware,mark.ware at southwales.ac.uk
+52,Portland State University,http://gisgeek.pdx.edu/wordpress/open-source-gis/,"Portland, Oregon",USA,-122.676207,45.523452,2013-10-22,David Percy,percy at pdx.edu
+53,IGAD Climate Prediction and Applications Center,http://www.icpac.net/,Nairobi,Kenya,36.821946,-1.292066,2013-10-29,Muyambi Fortunate,fbenda at icpac.net
+54,Federal University of Ceará,http://www.labocart.ufc.br/,Ceará,Brazil,-38.543395,-3.718394,2013-10-29,Prof. Dr. Adryane Gorayeb,adryanegorayeb at yahoo dot com dot br
+55,University of Gloucestershire,http://insight.glos.ac.uk/FACULTIES/AS/OSGEOLAB/Pages/default.aspx/,Gloucester and Cheltenham,UK,-2.223409,51.872215,2013-11-06,Dr Robert Berry,osgeolab at glos.ac.uk
+56,University of Moratuwa,http://www.mrt.ac.lk/tcp/osgeosl.html,Moratuwa,Sri Lanka,79.9008,6.7964,2013-11-11,Aruna Wickramasinghe,toaruna at gmail.com
+57,Fudan University,http://lab.osstat.org/,Shanghai,China,121.452,31.198,2013-11-14,Zhijie Zhang,epistat at gmail.com
+58,Haskell Indian Nations University,https://sites.google.com/site/dtmcdermott/home/haskell-cartography-class/,"Lawrence, Kansas",USA,-95.230691,38.938859,2013-11-22,Dave McDermott,dmcdermott at haskell.edu
+59,"University of Zagreb, Faculty of Geodesy",http://www.geof.unizg.hr/mod/book/view.php?id=1165&chapterid=110&lang=en,Zagreb,Croatia,15.963888,45.8085,2013-11-25,Dražen Tutic,dtutic at geof.hr
+60,GeoBolivia-Vice-presidency of the State,http://www.geo.gob.bo/,La Paz,Bolivia,-68.1547,-16.4949,2013-11-24,Raul Fernando Molina Rodriguez,rafemoro at gmail.com rmolina@geo.gob.bo
+61,"Geodesy and Geomatics Engineering, University of New Brunswick",http://www2.unb.ca/~estef/geo4all.html,"Fredericton, NB",Canada,-66.641474,45.950252,2013-12-10,Emmanuel Stefanakis,emmanuel.stefanakis at gmail.com
+62,"Faculty of Geomatics, Sabaragamuwa University of Sri Lanka",http://geo.sab.ac.lk/,"Belihuloya, Sabaragamuwa",Sri Lanka,80.78995,6.7102,2013-12-12,Thilantha Dammalage,thilantha9 at gmail.com
+63,"Dpt of IT, Faculty of Computing, Sri Lanka Institute of Information Technology",http://osgeolab.sliit.lk/,Malabe,Sri Lanka,79.973166667,6.914866667,2013-12-13,Nimalika Fernando,nimalikaf at gmail.com
+64,University of Geneva - Institute for Environmental Sciences,http://www.unige.ch/sig/geoforall.html,Geneva,Switzerland,6.1487,46.2253,2013-12-19,Gregory Giuliani,gregory.giuliani at unige.ch
+65,Geometa Lab at HSR - University of Applied Sciences Rapperswil,http://www.ifs.hsr.ch/Geometa-Lab.12520.0.html?&L=4,Rapperswil,Switzerland,8.8169,47.22341,2014-01-26,Prof. Stefan Keller,sfkeller at hsr.ch (and/or at gmail.ch)
+66,"National University of ""Kyiv-Mohyla Academy"", Ecology Faculty",,Kyiv,Ukraine,30.515647,50.456936,2014-02-16,Tetyana Kuchma,tanyakuchma at yahoo.com
+67,Centre for Research and Technology Hellas - Hellenic Institute of Transport,,Thessaloniki,Greece,22.996707,40.567811,2014-02-17,Dr. Evangelos Mitsakis,emit at certh.gr
+68,"Centre for Spatial Information Science(CSIS), University of Tokyo",http://www.csis.u-tokyo.ac.jp/english/,"Kashiwa-shi, Chiba",Japan,139.938952,35.902681,2014-02-18,Dr. Toshikazu Seto,tosseto at csis.u-tokyo.ac.jp
+69,FOSS4Geo Academy @ Del Mar College National Open Geospatial Technology Consortium,http://foss4geo.org/,"Corpus Christi, Republic of Texas",USA,-97.407096,27.764053,2014-02-18,Dr. Phillip Davis,pdavis at delmar.edu
+70,Osaka City University(OCU),,"Sumiyoshi-ku, Osaka",Japan,135.507556,34.593067,2014-02-23,Venkatesh Raghvan,venka.osgeo at gmail.com
+71, Università di Genova - Laboratorio di Geomatica,http://www.dicca.unige.it/geomatica/,Genova,Italy,8.962795,44.400133,2014-03-21,Tiziano Cosso - Bianca Federici - Roberto Marzocchi - Domenico Sguerso,bianca.federici at unige.it
+72,Universidad de Las Palmas de Gran Canaria - Escuela de Ingenierías Industriales y Civiles - Grado en Ingenieria Geomática y Topografía,http://www.eiic.ulpgc.es/,Las Palmas de Gran Canaria,Spain,-15.456207,28.069303,2014-03-23,Fernando Toscano BenГ­tez,sub_dgn at eiic.ulpgc.es
+73,"Center for Advanced Research on Spatial Information, Hunter College - CUNY",http://carsilab.org/,New York,US,-73.964831,40.768703,2014-04-04,Carson Farmer,carson.farmer at hunter.cuny.edu
+74,"Hellenic digital earth Centre of Excellence, Aristotle University of Thessaloniki - AUTH",http://www.digital-earth.edu.gr/index.php/en/,Thessaloniki,Greece,22.961498,40.627516,2014-04-05,Nikos Lambrinos,labrinos at eled.auth.gr
+75,"Interfaculty Department of Geoinformatics - Z_GIS, University of Salzburg",http://www.zgis.at/,Salzburg,Austria,13.039586,47.823711,2014-04-14,Hermann Klug,hermann.klug at sbg.ac.at
+76,"The GI Science Group @ the Department of Geomatics Engineering, University of Calgary",http://gisciencegroup.ucalgary.ca/,Calgary,Canada,-114.132457,51.079735,2014-04-22,Andrew Hunter,ahunter at ucalgary.ca
+77,Ben Gurion University of the Negev (BGU),,Sede Boqer and Beer Sheva,Israel,34.78346,30.85332,2014-04-22,Yaakov GARB,ygarb at bgu.ac.il
+78,"University of Belgrade, Faculty of Civil Engineering, Department of geodesy and geoinformatics",http://osgl.grf.bg.ac.rs/,Belgrade,Serbia,20.476321,44.805499,2014-05-03,Milan Kilibarda,kili at grf.bg.ac.rs
+79,"Open Geospatial Laboratory of Northeast Institute of Geography and Agroecology, CAS",http://lab.osgeo.cn/en,"Changchun, Jilin",China,125.400779,43.99896,2014-05-26,Bu Kun,See Profile page
+80,Bay College,http://www.baycollege.edu/gis,"Escanaba, Michigan",USA,-87.16305,45.773875,2014-06-07,Karl Linderoth,linderok at baycollege.edu
+81,"Taras Shevchenko National University of Kyiv (TSNUK) OSGeo Research and Education Lab, Faculty of Geography, Department of Physical Geography and Geoecology",http://lab.osgeo.org.ua/,Kyiv,Ukraine,30.4752782,50.3825971,2014-07-11,Daria Svidzinska,d.svidzinska at gmail.com
+82,"University of Colorado Denver, Department of Geography and Environmental Sciences",http://geospatial.ucdenver.edu/foss4g/,"Denver, CO",USA,-105.0019444,39.0122222,2014-08-17,Rafael Moreno,Rafael.Moreno at ucdenver.edu
+83,French Space Agency CNES,,Toulouse,France,1.481608,43.561984,2014-07-17,Manuel Grizonnet,manuel.grizonnet at cnes.fr
+84,Direccion Nacional de Topografia - MTOP,https://gvsigbatovi.wordpress.com/,Montevideo,Uruguay,-56.203617,-34.905912,2014-08-15,Sergio Acosta Y Lara,sergio.acostaylara@mtop.gub.uy
+85,"Department of Geodesy and Surveying, Budapest University of Technology and Economics",http://152.66.5.8/osgeolab/?lang=en,Budapest,Hungary,19.054403,47.481916,2014-08-19,Zoltan Siki,siki.zoltan at epito.bme.hu
+86,"Center for Geographic Analysis, Harvard University",http://worldmap.harvard.edu/,Cambridge MA,USA,,,2014-09-17,Ben Lewis,blewis at cga.harvard.edu
+87,Community Mapping Lab Green Mountain College,http://gmcmaplab.blog.com/?page_id=50,"Poultney, VT",USA,-73.240679,43.515866,2014-09-17,John Van Hoesen,vanhoesenj at greenmtn.edu
+88,"National Environmental Modeling and Analysis Center (NEMAC), UNC Asheville",http://nemac.unca.edu/,"Asheville, NC",USA,-82.55149,35.59506,2014-09-18,John Derek Morgan,jdmorgan at unca.edu
+89,Birds Eye View GIS,http://www.birdseyeviewgis.com/,"Albuquerque, NM",USA,-106.60893,35.068353,2014-09-18,Kurt Menke,kurt at birdseyeviewgis.com
+90,"Geographic Information Science and Systems Research Group, Department of Geography and Environmental Studies, Ryerson University",http://gis.blog.ryerson.ca/,Toronto,Canada,-79.38097,43.6591,2014-10-03,Claus Rinner,crinner at ryerson dot ca
+91,"School of Geography Planning and Environmental Management , University of Queensland",http://www.gpem.uq.edu.au/,Brisbane,Australia,,,2014-12-12,David Pullar,d.pullar at uq.edu.au
+92,"ETIS Lab ENSEA UCP CNRS UMR 8051 , University of Cergy Pontoise",http://www-etis.ensea.fr/,Cergy Pontoise,France,2.085741,49.043274,2015-03-10,Dimitris Kotzinos,kotzino at gmail.com
+93,"Department of Global Studies, Warren Wilson College",,Asheville NC,USA,-82.4420794,35.6115585,2015-04-19,David Abernathy,dabernathy@warren-wilson.edu
+94,"The Spatial Lab, Dept of Geography & Environmental Studies Wilfrid Laurier University",,"Waterloo, ON",Canada,-80.529557,43.474073,2015-05-01,Colin Robertson,crobertson at wlu.ca
+95,National Authority for Remote Sensing & Space Sciences,,Cairo,Egypt,30.05,31.2333,2015-05-01,Rania Elsayed,ranyaalsayed at gmail.com
+96,"Geomatics and Virtual Reality Research Group, Siberian State University of Geosystems and Technologies",http://sgugit.ru/en/collaboration/international-cooperation/siberian-opensource-geospatial-lab/,Novosibirsk,Russian Federation,82.863503,54.986816,2015-05-18,"Alexey Kolesnikov, Pavel Kikin","alekseykw at gmail.com, it-technologies at yandex.ru"
+97,"SMART Open Source Geospatial Laboratory, University of Wollongong",http://smart.uow.edu.au/osgeo/index.html,Wollongong,Australia,150.87889,-34.40596,2014-10-17,Dr Tomas Holderness,tomas at uow.edu.au
+98,"Department of Photogrammetry and Geoinformatics, Faculty of Civil Engineering, Budapest University of Technology and Economics",http://www.geoscope.hu/,Budapest,Hungary,19.054717,47.481911,2015-06-29,Dr. Gyorgy Szabo,szabo.gyorgy at epito.bme.hu
+99,"Geospatial Exploration Lab, Department of Geosciences, East Tennessee State University",http://etsugeos.weebly.com/gel.html,"Johnson City, Tennessee",USA,-82.370095,36.300059,2015-06-18,Dr. Andrew Joyner,joynert@mail.etsu.edu
+100,"Dept. of Geoinformatics, Palacký University Olomouc",http://www.geoinformatics.upol.cz/eosgeo,Olomouc,Czech Republic,17.26551,49.593812,2015-06-29,Dr. Rostislav Nétek ,rostislav.netek@upol.cz
+101,University College London,https://www.ucl.ac.uk/gis/OSGeo/osgeolablaunch,London,UK,-0.133427,51.524773,2015-07-07,Dr. Claire Ellul,c.ellul@ucl.ac.uk
+102,A World Bridge,http://aworldbridge.com/,"Kodiak, Alaska",USA,-152.396023,57.781399,2015-07-07,Ron Fortunato,ron@trilliumlearning.com
+103,IREA-CNR,http://www.irea.cnr.it/en/,Milano,Italy,9.23434,45.48046,2015-10-05,Alessandro Oggioni,oggioni.a@irea.cnr.it
+104,HEIG-VD GIS-Lab University of Applied Sciences Western Switzerland at Yverdon,http://g2c.heig-vd.ch/en/presentation/labs/geoinformatics-and-gis,Yverdon-les-Bains,Switzerland,6.6595,46.77938,2015-10-08,Prof. Dr. Jens Ingensand,jens.ingensand@heig-vd.ch
+105,"Global Studies and Collaboration(GSC), Aoyama Gakuin University",http://www.gsc.aoyama.ac.jp/,Sagamihara,Japan,139.403,35.5664,2015-11-05,Prof. Taichi Furuhashi,taichi at gsc.aoyama.ac.jp
+106,"Remote Sensing & GIS, Asian Institute of Technology",http://rsgis.ait.ac.th/,Pathumthani,Thailand,100.612086,14.079753,2015-11-24,Dr. Sarawut Ninsawat,sarawutn at ait.ac.th
+107,"Geographic Information Science and Systems Research Group, School of Information Technology and Computing, American University of Nigeria",http://www.aun.edu.ng/,Yola,Nigeria,12.4996909,9.1911318,2015-11-25,Prof. Kalum Priyanath Udagepola,kalum.udagepola at aun.edu.ng
+108,"Department of Geography, Ferdowsi University of Mashhad",http://geographydept.um.ac.ir/,Mashad,Iran,59.534125,36.306903,2016-02-01,Dr. Masoud Minaei,"m.minaei at um.ac.ir, minaei.masoud at gmail.com"
+109,Laboratorio Dati Economici Storici Territoriali University of Siena,http://ladestlab.it/,Siena,Italy,11.332129,43.312688,2016-23-04,Prof. Cristina Capineri; Stefano Picascia,"{cristina,stefano}@ladestlab.it"
+110,"Spatial Analysis Research Group Department of Geography, Harokopio University of Athens",http://sarg.gisc.gr/en/,Athens,Greece,23.70755,37.96124,2016-19-06,Ass. Prof. Stamatis Kalogirou,skalo@hua.gr
+111,"Department of Civil Engineering PEC University of Technology, Chandigarh, India",http://www.pec.ac.in/,Chandigarh,India,76.780893,30.766247,2016-09-12,Ass. Prof. Har Amrit Singh Sandhu,haramritsingh.pec@gmail.com
+112,"DePaul University, Department of Geography ",,Chicago,USA,-87.6269709,41.8775909,2016-10-28,Cassandra Follett ,CFOLLETT@depaul.edu 
+113,"University of Wisconsin, Cartography Lab ",,Madison ,USA,-89.4011849,43.075844,2016-12-14,Carl Sack ,cmsack@wisc.edu 
+114,Center for Agricultural Networking and Information Sharing (CANIS) ,,Nairobi ,Kenya ,36.816531,-1.279007,2016-12-02,Kiringai Kamau ,kiringai@gmail.com 
+115,"Spatiotemporal Data Research and Education Laboratory Southern Illinois University Edwardsville, Computer Science Department",http://www.cs.siue.edu/~marmcke/geoforall/,"Edwardsville, IL",USA,-90.0009,38.7917,2017-02-03,Mark McKenney,marmcke@siue.edu
+116,"Lakeland Community College, Geography and Geospatial Technology",,"Kirtland, OH",USA,,,2017-04-17,Bobby Oliver,
+117,"GIS Lab of Ewha Womans University Dept of Social Studies (Geography), Ewha Womans University",http://my.ewha.ac.kr/ewhagiseng/,Seoul,South Korea,126.946214,37.5650726,2017-06-26,Prof. Youngok Kang,ykang@ewha.ac.kr
